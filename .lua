@@ -59,7 +59,7 @@ end
 end)
 
 section1:addButton("Destroy GUI", function(coregui)
-coregui = game:GetService("CoreGui").Negro
+coregui = game:GetService("CoreGui").Onikami (Script Made by JustLevel)
 coregui:Remove()
 end)
 
