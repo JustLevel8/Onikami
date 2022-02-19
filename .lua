@@ -1,5 +1,5 @@
 local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/zxciaz/VenyxUI/main/Reuploaded"))()
-local venyx = library.new("Onikami (Script Made by JustLevel)", 5013109572)
+local venyx = library.new("Onikami", 5013109572)
 
 -- themes
 local themes = {
