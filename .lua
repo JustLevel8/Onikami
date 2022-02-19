@@ -88,7 +88,7 @@ section2:addButton("Final Selection Start", function(coordinates)
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(223.42726135253906, 252.66448974609375, -3351.60693359375)
 end)
 
-section2:addButton("Forgeron d'épée", function(coordinates)
+section2:addButton("SwordSmith", function(coordinates)
     game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1477.3990478515625, 363.3950500488281, -2962.55810546875)
     end)
 
